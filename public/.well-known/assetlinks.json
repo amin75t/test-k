@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.meli_gold",
+      "sha256_cert_fingerprints": [" 42:E8:19:B4:9B:70:00:D6:29:A0:0A:F3:2A:BD:05:C8:37:1A:E5:B0:FB:A5:7A:89:8D:39:55:6D:09:CF:9F:DE"]
+    }
+  }
+]
