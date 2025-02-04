@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.example.meli_gold",
-      "sha256_cert_fingerprints": ["3C:81:46:99:D7:24:8E:46:F6:DE:31:D0:22:75:FC:DC:F9:ED:AE:79:11:F9:B8:97:63:D1:25:FB:E2:63:B4:62"]
+      "sha256_cert_fingerprints": ["92:1D:C1:4E:EC:E3:AE:72:F9:4D:A9:81:74:E9:BF:E7:E4:19:20:0F:9A:5F:65:C2:A8:7D:7C:FE:03:3F:43:A2"]
     }
   }
 ]
