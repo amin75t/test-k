@@ -8,11 +8,13 @@ import { routes } from './route'
 function App() {
   const ro=useRoutes(routes);
   return (
-   <div className="">
-    hi
-    {ro}
-   </div>
-  )
+    <div className="">
+      <a href="intent://test-k-d4qx.vercel.app/#Intent;scheme=https;package=your.app.package;end;">
+        <button>Open App</button>
+      </a>
+      {ro}
+    </div>
+  );
 }
 
 export default App
