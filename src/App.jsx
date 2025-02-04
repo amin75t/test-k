@@ -9,7 +9,7 @@ function App() {
   const ro=useRoutes(routes);
   return (
     <div className="">
-      <a href="intent://test-k-d4qx.vercel.app/#Intent;scheme=https;package=your.app.package;end;">
+      <a href="intent://test-k-d4qx.vercel.app/#Intent;scheme=https;package=com.example.meli_gold;end;">
         <button>Open App</button>
       </a>
       {ro}
