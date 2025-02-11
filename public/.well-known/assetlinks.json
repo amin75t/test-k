@@ -5,7 +5,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.meli_gold",
+      "package_name": "ir.simatajparast.melligold",
       "sha256_cert_fingerprints": [
         "92:1D:C1:4E:EC:E3:AE:72:F9:4D:A9:81:74:E9:BF:E7:E4:19:20:0F:9A:5F:65:C2:A8:7D:7C:FE:03:3F:43:A2"
       ]
